@@ -237,22 +237,14 @@ report = pipeline.run(
 ## Citation
 
 ```bibtex
-@inproceedings{xue-etal-2026-supervised,
-  title     = {Why Supervised Fine-Tuning Fails to Learn: A Systematic
-               Study of Incomplete Learning in Large Language Models},
-  author    = {Chao Xue and Yao Wang and Mengqiao Liu and Di Liang and
-               Xingsheng Han and Peiyang Liu and Xianjie Wu and Chenyao Lu and
-               Lei Jiang and Yu Lu and Haibo Shi and Shuang Liang and
-               Minlong Peng and Flora D. Salim},
-  booktitle = {Proceedings of the 64th Annual Meeting of the Association
-               for Computational Linguistics (Volume 1: Long Papers)},
-  pages     = {30186--30213},
-  year      = {2026},
-  address   = {San Diego, California, United States},
-  publisher = {Association for Computational Linguistics},
-  doi       = {10.18653/v1/2026.acl-long.1393},
-  url       = {https://aclanthology.org/2026.acl-long.1393/},
+@inproceedings{xue2026supervised,
+   title={Why supervised fine-tuning fails to learn: A systematic study of incomplete learning in large language models},
+   author={Xue, Chao and Wang, Yao and Liu, Mengqiao and Liang, Di and Han, Xingsheng and Liu, Peiyang and Wu, Xianjie and Lu, Chenyao and Jiang, Lei and Lu, Yu and others},
+   booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+   pages={30186--30213},
+   year={2026}
 }
+
 ```
 
 ## Reproducibility Notes
